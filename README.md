@@ -27,7 +27,7 @@ retirement strategies.
 
 ## Datasets
 
-- `S&P 500.xlsx` — S&P 500 annual returns (96 years)
+- `S&P 500 Index.xlsx` — S&P 500 annual returns (96 years)
 - `NASDAQ.xlsx` — NASDAQ annual returns (52 years)
 - `Dow Jones.xlsx` — Dow Jones annual returns (109 years)
 - `Inflation.xlsx` — inflation data (110 years)
@@ -50,7 +50,7 @@ retirement strategies.
 ## Files
 
 - `Project1_20240715.m` — MATLAB simulation code
-- `S&P 500.xlsx` — S&P 500 dataset
+- `S&P 500 Index.xlsx` — S&P 500 dataset
 - `NASDAQ.xlsx` — NASDAQ dataset
 - `Dow Jones.xlsx` — Dow Jones dataset
 - `Inflation.xlsx` — inflation dataset
